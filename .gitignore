@@ -1,0 +1,4 @@
+/.env
+/.env_enc
+/jest.config.ts
+/node_modules

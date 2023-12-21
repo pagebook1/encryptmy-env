@@ -1,0 +1,14 @@
+# .npmignore
+
+# Ignore TypeScript source files
+*.ts
+*.tsx
+
+# Ignore TypeScript build files
+tsconfig.json
+.env
+.env_enc
+
+# Ignore development files
+node_modules
+*.log
