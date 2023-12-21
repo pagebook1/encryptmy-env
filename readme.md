@@ -1,4 +1,11 @@
- # Env Encryptor
+
+
+
+ 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/pagebook1)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/pagebook1/encryptmy-env) 
+
+ # ENCRYPT MY ENV - ENV ENCRYPTOR & DECRYPTOR
+
 
 This project provides a command-line tool for encrypting and decrypting `.env` files, making it easy to protect sensitive configuration data, especially when storing `.env` files in less secure environments.
 
@@ -55,8 +62,6 @@ import { DecryptEnvFile } from 'encryptmy-env'
 DecryptEnvFile({encryptionKey:<your-encryption-key>})
 ```
 
-[![GitHub](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)](https://github.com/pagebook1/encryptmy-env)
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/pagebook1)
 
 
 
