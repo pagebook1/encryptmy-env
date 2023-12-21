@@ -47,7 +47,7 @@ npx encryptmyenv encrypt --file <path-to-env-file> --key <encryption-key>
 npx encryptmyenv decrypt --file <path-to-env-file> --key <encryption-key>
 ```
 
-Note that the `--key` and `--file` options are optional. If you do not specify the `--key` option, the tool will generate a random encryption key for you. If there is no ENV_ENC_KEY in .env file . If you do not specify the `--file` option, the tool will look for an `.env` file in the root directory.
+Note that the `--key` and `--file` options are optional. If you do not specify the `--key` option and there is no ENV_ENC_KEY in .env file, the tool will generate a random encryption key for you. If you do not specify the `--file` option, the tool will look for an `.env` file in the root directory.
 
 ### SAMPLE
 
