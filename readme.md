@@ -54,3 +54,9 @@ npx encryptmyenv convert --file '.env' --key 'MYGENERATEDKEY'
 import { DecryptEnvFile } from 'encryptmy-env'
 DecryptEnvFile({encryptionKey:<your-encryption-key>})
 ```
+
+[![GitHub](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)](https://github.com/pagebook1/encryptmy-env)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/pagebook1)
+
+
+
