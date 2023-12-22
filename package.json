@@ -6,6 +6,10 @@
   "bin": {
     "my-env": "dist/my-env.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pagebook1/encryptmy-env"
+  },
   "scripts": {
     "test": "jest",
     "my-env": "node dist/my-env.js",
